@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "383688216225",
+    "firebase_url": "https://dictionary-bbb23.firebaseio.com",
+    "project_id": "dictionary-bbb23",
+    "storage_bucket": "dictionary-bbb23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383688216225:android:055db581f61a517e3c6ae0",
+        "android_client_info": {
+          "package_name": "fadhelapp.world_time"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383688216225-d7gfml9iif8ssu809psnl5k9l8hau1mo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcgsZNOQb1dKndY6kAQkJiBNNs36Tn1O4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383688216225-d7gfml9iif8ssu809psnl5k9l8hau1mo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
